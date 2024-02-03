@@ -1,0 +1,25 @@
+@charset "UTF-8";
+* {
+
+}
+
+body {
+    font-family: work sans-serif
+
+    font-size: 0,5px ;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 1em;
+    margin: 400PX;
+    padding: 10px;
+    margin-top: auto;
+}
+h1,h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    
+}
+h3 {
+    font:italic bold 3em 'work sans', sans-serif;
+}
